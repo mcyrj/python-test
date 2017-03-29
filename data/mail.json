@@ -1,0 +1,15 @@
+{
+	"pop": {
+		"server": "pop.eulikind.com",
+		"user": "it@eulikind.com",
+		"pwd": "1qazxsw@"
+	},
+	"stmp": {
+		"server": "smtp.eulikind.com",
+		"user": "it@eulikind.com",
+		"pwd": "1qazxsw@"
+	},
+	"send": {
+		"to": "'xit@eulikind.com', 'mcyrj@qq.com', 'xmayunfeng@eulikind.com'"
+	}
+}
